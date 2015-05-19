@@ -1,4 +1,5 @@
-drewy:datetimepicker@1.0.0
+drewy:datetimepicker@1.0.1
 jquery@1.11.3_2
 meteor@1.1.6
+momentjs:moment@2.8.4
 underscore@1.0.3
