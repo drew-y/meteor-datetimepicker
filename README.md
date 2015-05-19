@@ -1,3 +1,19 @@
+Installation
+============
+```shell
+meteor add drewy:datetimepicker
+```
+
+Basic Usage
+===========
+HTML
+```html
+<input type="text" id="datetimepicker">
+```
+Javascript
+```javascript
+$(#datetimepicker).datetimepicker();
+```
 datetimepicker
 ==============
 [Documentation][doc]
